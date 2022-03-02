@@ -24,29 +24,17 @@
 
 
 #### 上海
-* [上海单身男女 97854成员 活跃指数★★★★](https://www.douban.com/group/159755/)
-* [以结婚为目的而恋爱吧 90591成员 活跃指数★★](https://www.douban.com/group/28916/)
-* [上海最靠谱的恋爱小组 14037成员 活跃指数★★](https://www.douban.com/group/676088/)
-* [上海高学历单身交友 8315成员 活跃指数★](https://www.douban.com/group/680954/)
+* [上海单身男女 97854成员 活跃指数★★★★](http://lookformate.coderview.cn/key/sh1)
+* [以结婚为目的而恋爱吧 90591成员 活跃指数★★](http://lookformate.coderview.cn/key/sh2)
+* [上海最靠谱的恋爱小组 14037成员 活跃指数★★](http://lookformate.coderview.cn/key/sh3)
+* [上海高学历单身交友 8315成员 活跃指数★](http://lookformate.coderview.cn/key/sh4)
 
 #### 北京
-* [北京最靠谱的恋爱小组 46139成员 活跃指数★★★★★](https://www.douban.com/group/641424/)
-* [北京恋爱交友征婚聊天脱单 15097成员 活跃指数★★](https://www.douban.com/group/611761/)
-* [北京高学历单身交友 13556成员 活跃指数★](https://www.douban.com/group/679445/)
-* [我们单身--北京 13223成员 活跃指数★](https://www.douban.com/group/267920/)
-* [北京征婚 53617成员 活跃指数★](https://www.douban.com/group/ganji/)
+* [北京最靠谱的恋爱小组 46139成员 活跃指数★★★★★](http://lookformate.coderview.cn/key/bj1)
+* [北京恋爱交友征婚聊天脱单 15097成员 活跃指数★★](http://lookformate.coderview.cn/key/bj2)
+* [北京高学历单身交友 13556成员 活跃指数★](http://lookformate.coderview.cn/key/bj3)
+* [我们单身--北京 13223成员 活跃指数★](http://lookformate.coderview.cn/key/bj4)
+* [北京征婚 53617成员 活跃指数★](http://lookformate.coderview.cn/key/bj5)
 
-#### 广州
-待更新
-
-#### 深圳
-待更新
-
-#### 杭州
-待更新
-
-#### 苏州
-待更新
-
-#### 南京
-待更新
+#### 广州、深圳、杭州、苏州、南京
+* [待更新](http://lookformate.coderview.cn)
