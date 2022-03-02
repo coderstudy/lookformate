@@ -25,7 +25,6 @@
 
 #### 上海
 * [上海单身男女 97854成员 活跃指数★★★★](http://lookformate.coderview.cn/key/sh1)
-* [以结婚为目的而恋爱吧 90591成员 活跃指数★★](http://lookformate.coderview.cn/key/sh2)
 * [上海最靠谱的恋爱小组 14037成员 活跃指数★★](http://lookformate.coderview.cn/key/sh3)
 * [上海高学历单身交友 8315成员 活跃指数★](http://lookformate.coderview.cn/key/sh4)
 
