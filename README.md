@@ -35,5 +35,14 @@
 * [我们单身--北京 13223成员 活跃指数★](http://lookformate.coderview.cn/key/bj4)
 * [北京征婚 53617成员 活跃指数★](http://lookformate.coderview.cn/key/bj5)
 
-#### 广州、深圳、杭州、苏州、南京
+#### 广州
+* [广州相亲 34475成员 活跃指数★★★](http://lookformate.coderview.cn/key/gz1)
+* [广州最靠谱的谈恋爱小组 2422成员  活跃指数★★](http://lookformate.coderview.cn/key/gz2)
+
+#### 深圳
+* [深圳相亲会 44300成员 活跃指数★★★★★](http://lookformate.coderview.cn/key/sz1)
+* [深圳单身青年恋爱小组 19612成员 活跃指数★★★★](http://lookformate.coderview.cn/key/sz2)
+* [深圳大龄单身青年组 45528成员 活跃指数★★★](http://lookformate.coderview.cn/key/sz3)
+
+#### 杭州、苏州、南京
 * [待更新](http://lookformate.coderview.cn)
