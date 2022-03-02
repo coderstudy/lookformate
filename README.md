@@ -44,5 +44,5 @@
 * [深圳单身青年恋爱小组 19612成员 活跃指数★★★★](http://lookformate.coderview.cn/key/sz2)
 * [深圳大龄单身青年组 45528成员 活跃指数★★★](http://lookformate.coderview.cn/key/sz3)
 
-#### 杭州、苏州、南京
+#### 广州、深圳、杭州、苏州、南京
 * [待更新](http://lookformate.coderview.cn)
